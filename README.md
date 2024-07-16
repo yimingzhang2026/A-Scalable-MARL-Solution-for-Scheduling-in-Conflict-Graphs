@@ -12,10 +12,10 @@ In wireless networks, links may conflict with one another if activated simultane
 Examples of conflict graphs:
 
 ![Conflict Graph with 6 Nodes](figures/conflict_graph_6nodes.png)
-*Figure 2: A conflict graph with 6 nodes*
+*Figure 1: A conflict graph with 6 nodes*
 
 ![Conflict Graph with 20 Nodes](figures/conflict_graph_20nodes.png)
-*Figure 1: A conflict graph with 20 nodes*
+*Figure 2: A conflict graph with 20 nodes*
 
 Here we studies the case where each agent controls one link as in an ad hoc network, one of our other paper in Asilomar 2024 develops an MARL framework for cellular wireless networks, where each agent manages all links in a cell. In our recent work for Allerton 2024, we moved to SINR-based model in celluar wireless networks.
 
